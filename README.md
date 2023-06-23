@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Python application](python-application-passing.svg)
+
 ```python
 class FredericoOliveira:
 
