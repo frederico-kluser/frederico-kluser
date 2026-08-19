@@ -164,6 +164,10 @@ if __name__ == "__main__":
     with open(readmePath, "r") as readme:
         content = readme.read()
 
+    if "<!--START_SECTION:top-followers-->" not in content or "<!--END_SECTION:top-followers-->" not in content:
+        print("Marcadores <!--START_SECTION:top-followers--> não encontrados no README.md")
+        exit(1)
+
     newContent = re.sub(
         r'(?s)<!--START_SECTION:top-followers-->.*?<!--END_SECTION:top-followers-->',
         "<!--START_SECTION:top-followers-->" + NL + html + NL + "<!--END_SECTION:top-followers-->",
@@ -171,10 +175,8 @@ if __name__ == "__main__":
     )
 
     if newContent == content:
-        print("Marcadores <!--START_SECTION:top-followers--> não encontrados no README.md")
-        exit(1)
-
-    with open(readmePath, "w") as readme:
-        readme.write(newContent)
-
-    print("Top followers atualizados no README.md (" + str(min(len(followers), 21)) + " seguidores)")
+        print("Nada a atualizar — a seção de seguidores já está em dia")
+    else:
+        with open(readmePath, "w") as readme:
+            readme.write(newContent)
+        print("Top followers atualizados no README.md (" + str(min(len(followers), 21)) + " seguidores)")
