@@ -185,6 +185,13 @@
       <a href="https://github.com/sergiosposito-fullstack">Sergio Sposito</a>
     </td>
     <td align="center">
+      <a href="https://github.com/alexrmsouza">
+        <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
+      </a>
+      <br />
+      <a href="https://github.com/alexrmsouza">Alex Souza</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MJC579">
         <img src="https://avatars.githubusercontent.com/u/57891903?s=100&v=4" width="100px;" alt="MJC579"/>
       </a>
