@@ -14,9 +14,15 @@
    limitations under the License.
 
    Adaptado de https://github.com/ouuan/ouuan/blob/master/src/getTopFollowers.py
-   para o profile frederico-kluser/frederico-kluser: avatares com tamanho fixo
-   (s=100), mensagem amigável quando não há seguidores ativos e falha alta
-   quando os marcadores do README não existem.
+   para o profile frederico-kluser/frederico-kluser:
+   - avatares com tamanho fixo (s=100) e tabela com quebras de linha;
+   - TODOS os seguidores listados, ordenados por número de seguidores (até 21) —
+     os filtros anti-spam de atividade/quota do original foram removidos de
+     propósito: existem para perfis com milhares de seguidores e escondiam
+     seguidores reais de contas pequenas;
+   - nomes reais via GraphQL (fallback para o login);
+   - mensagem amigável quando não há seguidores;
+   - falha alta quando os marcadores do README não existem.
 """
 
 import requests
@@ -25,6 +31,37 @@ import sys
 import re
 from time import sleep
 from functools import partial
+
+NL = chr(10)
+
+
+def build_followers_html(followers):
+    followers = sorted(set(followers), reverse=True)
+
+    if not followers:
+        return "> ✨ Nenhum seguidor por enquanto — seja o primeiro!"
+
+    rows = []
+    limit = min(len(followers), 21)
+    for i in range(limit):
+        login = followers[i][1]
+        id = followers[i][2]
+        name = followers[i][3] or followers[i][1]
+        if i % 7 == 0:
+            rows.append('  <tr>')
+        rows.append(NL.join([
+            '    <td align="center">',
+            '      <a href="https://github.com/' + login + '">',
+            '        <img src="https://avatars.githubusercontent.com/u/' + str(id) + '?s=100&v=4" width="100px;" alt="' + login + '"/>',
+            '      </a>',
+            '      <br />',
+            '      <a href="https://github.com/' + login + '">' + name + '</a>',
+            '    </td>',
+        ]))
+        if i % 7 == 6 or i == limit - 1:
+            rows.append('  </tr>')
+    return '<table>' + NL + NL.join(rows) + NL + '</table>'
+
 
 if __name__ == "__main__":
     assert(len(sys.argv) == 4)
@@ -58,39 +95,8 @@ if __name__ == "__main__":
             ' login'
             ' name'
             ' databaseId'
-            ' following {'
-            ' totalCount'
-            ' }'
             ' followers {'
             ' totalCount'
-            ' }'
-            ' repositories('
-            ' first: 20,'
-            ' orderBy: {'
-            ' field: STARGAZERS,'
-            ' direction: DESC,'
-            ' },'
-            ' ) {'
-            ' nodes {'
-            ' stargazerCount'
-            ' }'
-            ' }'
-            ' repositoriesContributedTo('
-            ' first: 50,'
-            ' contributionTypes: [COMMIT],'
-            ' orderBy: {'
-            ' field: STARGAZERS,'
-            ' direction: DESC,'
-            ' },'
-            ' ) {'
-            ' nodes {'
-            ' stargazerCount'
-            ' }'
-            ' }'
-            ' contributionsCollection {'
-            ' contributionCalendar {'
-            ' totalContributions'
-            ' }'
             ' }'
             ' }'
             ' }'
@@ -132,29 +138,10 @@ if __name__ == "__main__":
         res = response.json()["data"]["user"]["followers"]
         try:
             for follower in res["nodes"]:
-                following = follower["following"]["totalCount"]
+                followerNumber = follower["followers"]["totalCount"]
                 login = follower["login"]
                 name = follower["name"]
                 id = follower["databaseId"]
-                followerNumber = follower["followers"]["totalCount"]
-                active = follower["contributionsCollection"]["contributionCalendar"]["totalContributions"] > 5
-                if not active:
-                    star = '*' if followerNumber > 500 else ''
-                    print("Skipped" + star + " (inactive): https://github.com/" + login + " with " + str(followerNumber) + " followers and " + str(following) + " following")
-                    continue
-                quota = followerNumber
-                for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositories"]["nodes"]]):
-                    if starCount <= i:
-                        break
-                    quota += starCount * (i + 1)
-                for i, starCount in enumerate([repo["stargazerCount"] for repo in follower["repositoriesContributedTo"]["nodes"]]):
-                    if starCount <= i:
-                        break
-                    quota += i * 5
-                if following > quota:
-                    star = '*' if followerNumber > 500 else ''
-                    print("Skipped" + star + " (quota): https://github.com/" + login + " with " + str(followerNumber) + " followers and " + str(following) + " following")
-                    continue
                 followers.append((followerNumber, login, id, name if name else login))
                 print(followers[-1])
         except TypeError as e:
@@ -172,37 +159,14 @@ if __name__ == "__main__":
             break
         cursor = res["pageInfo"]["endCursor"]
 
-    followers = sorted(set(followers), reverse=True)
-
-    if followers:
-        html = "<table>"
-        for i in range(min(len(followers), 21)):
-            login = followers[i][1]
-            id = followers[i][2]
-            name = followers[i][3]
-            if i % 7 == 0:
-                if i != 0:
-                    html += "  </tr>"
-                html += "  <tr>"
-            html += (
-                '    <td align="center">'
-                '      <a href="https://github.com/' + login + '">'
-                '        <img src="https://avatars.githubusercontent.com/u/' + str(id) + '?s=100&v=4" width="100px;" alt="' + login + '"/>'
-                '      </a>'
-                '      <br />'
-                '      <a href="https://github.com/' + login + '">' + name + '</a>'
-                '    </td>'
-            )
-        html += "  </tr></table>"
-    else:
-        html = "> ✨ Nenhum seguidor ativo por enquanto — seja o primeiro!"
+    html = build_followers_html(followers)
 
     with open(readmePath, "r") as readme:
         content = readme.read()
 
     newContent = re.sub(
         r'(?s)<!--START_SECTION:top-followers-->.*?<!--END_SECTION:top-followers-->',
-        "<!--START_SECTION:top-followers-->" + chr(10) + html + chr(10) + "<!--END_SECTION:top-followers-->",
+        "<!--START_SECTION:top-followers-->" + NL + html + NL + "<!--END_SECTION:top-followers-->",
         content,
     )
 

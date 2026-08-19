@@ -80,7 +80,7 @@
 <table>  <tr>    <td align="center">      <a href="https://github.com/leostella97">        <img src="https://avatars.githubusercontent.com/u/45106451?s=100&v=4" width="100px;" alt="leostella97"/>      </a>      <br />      <a href="https://github.com/leostella97">Leonardo Stella de Oliveira</a>    </td>    <td align="center">      <a href="https://github.com/matmelous">        <img src="https://avatars.githubusercontent.com/u/51704551?s=100&v=4" width="100px;" alt="matmelous"/>      </a>      <br />      <a href="https://github.com/matmelous">Matheus Santos</a>    </td>    <td align="center">      <a href="https://github.com/Rogenis">        <img src="https://avatars.githubusercontent.com/u/49156356?s=100&v=4" width="100px;" alt="Rogenis"/>      </a>      <br />      <a href="https://github.com/Rogenis">Rógenis Silva</a>    </td>    <td align="center">      <a href="https://github.com/nycodev">        <img src="https://avatars.githubusercontent.com/u/81642126?s=100&v=4" width="100px;" alt="nycodev"/>      </a>      <br />      <a href="https://github.com/nycodev">Nycolas Borowski</a>    </td>  </tr></table>
 <!--END_SECTION:top-followers-->
 
-*Os seguidores mais ativos — atualizado automaticamente via GitHub Actions ([script](src/getTopFollowers.py) inspirado no profile do [ouuan](https://github.com/ouuan)).*
+*Meus seguidores, ordenados por relevância — atualizado automaticamente via GitHub Actions ([script](src/getTopFollowers.py) inspirado no profile do [ouuan](https://github.com/ouuan)).*
 
 ---
 
