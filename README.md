@@ -1,17 +1,43 @@
 # 👋 Hi, I am Frederico Kluser! · 你好，我是 Frederico Kluser！
 
-*IA Developer | Tech Lead | MCP & Mobile* · *AI 开发者 | 技术主管 | MCP 与移动端*
+*Applied AI Engineer | GenAI | LLM | Instructor | FDE | ex-Peloton* · *应用 AI 工程师 | GenAI | LLM | 讲师 | FDE | 前 Peloton*
 
-> AI Developer at **Grupo Fleury**, specialized in LLMs, LangChain and MCP servers. Over 10 years of experience, from mobile solution architecture to tech leadership at international startups. Passionate about building high-quality software tools that integrate artificial intelligence into robust products.
+> Senior Software Engineer with 10+ years of experience, currently focused on connecting the potential of Large Language Models (LLMs) to real, production applications.
+> My specialty is architecting AI-native interfaces with the Model Context Protocol (MCP) and LangChain, integrating autonomous agent capabilities into robust environments like React Native and Electron — from optimizing high-traffic apps for global brands like Peloton and Claro to building enterprise-scale AI tools at Grupo Fleury.
 >
-> **Grupo Fleury** 的 AI 开发者，专注于 LLM、LangChain 和 MCP 服务器。拥有 10 年以上经验，从移动端解决方案架构到国际初创公司的技术领导。热衷于打造将人工智能融入稳健产品的高质量软件工具。
+> 拥有 10 年以上经验的资深软件工程师，目前专注于将大语言模型（LLM）的潜力连接到真实的生产应用中。我的专长是使用模型上下文协议（MCP）和 LangChain 构建 AI 原生接口，将自主智能体能力集成到 React Native 和 Electron 等稳健环境中——从为 Peloton、Claro 等全球品牌优化高流量应用，到在 Grupo Fleury 构建企业级 AI 工具。
 
 ## 🧑‍💻 About me · 关于我
 
-- 🤖 **Currently:** AI Developer at **Grupo Fleury** — chatbots, MCP servers and data analysis systems. · **目前：**Grupo Fleury 的 AI 开发者 — 聊天机器人、MCP 服务器和数据分析系统。
-- 📱 **Mobile roots:** helped build apps with 50M+ downloads (Minha Claro Móvel) and led the React Native conversion of Banco do Brasil's app (Livelo). · **移动端出身：**参与构建下载量超 5000 万的应用（Minha Claro Móvel），并主导了巴西银行应用向 React Native 的迁移（Livelo）。
-- 🧪 **Maker of tools:** AI agent orchestrators and my own Git client — all documented on the [blog](https://frederico-kluser.com/en/blog). · **工具制造者：**AI 智能体编排器和自己的 Git 客户端 — 都在[博客](https://frederico-kluser.com/en/blog)里有记录。
+**🚀 AI & Agents · AI 与智能体**
+
+- Active contributor to the MCP ecosystem (awesome-mcp-servers). Experience building RAG pipelines, chatbots and contextual assistants that solve real business problems. · MCP 生态系统的活跃贡献者（awesome-mcp-servers）。拥有构建 RAG 流水线、聊天机器人和上下文助手的经验，解决真实的业务问题。
+
+**📱 Cross-Platform Engineering · 跨平台工程**
+
+- Deep expertise in React Native and Electron — native performance with web technologies. Beyond the UI: state management architecture, asset compression and scalable native bridges. · 精通 React Native 和 Electron — 用 Web 技术实现原生性能。不止于 UI：状态管理架构、资源压缩和可扩展的原生桥接。
+
+**🔧 Systems Architecture · 系统架构**
+
+- Proven track record modernizing legacy systems and defining scalability standards for distributed teams. · 在遗留系统现代化和为分布式团队制定可扩展性标准方面拥有良好记录。
+
+**Background · 背景**
+
+- 🤖 AI Developer at **Grupo Fleury** — enterprise-scale AI tools. · **Grupo Fleury** 的 AI 开发者 — 企业级 AI 工具。
+- 🚴 ex-Tech Lead at **Peloton** (Remote US) — complex state management challenges. · **Peloton** 前技术主管（美国远程）— 处理复杂的状态管理挑战。
+- 🧪 Founder at **huu** — product-oriented mindset: code must serve business goals and user experience above all. · **huu** 创始人 — 产品导向的思维：代码首先要服务于业务目标和用户体验。
 - ✍️ I write about AI, agents, career and engineering on my [blog](https://frederico-kluser.com/en/blog) (pt-BR · EN · ES). · ✍️ 我在[博客](https://frederico-kluser.com/en/blog)上写 AI、智能体、职业与工程相关的内容（pt-BR · EN · ES）。
+
+**Setup · 开发环境**
+
+- 🖥️ Terminal: **Ghostty** · Code editor: **Zed** and **VS Code**. · 🖥️ 终端：**Ghostty** · 代码编辑器：**Zed** 和 **VS Code**。
+
+**Languages · 语言**
+
+- Fluent in **English** and **Portuguese**. · 精通**英语**和**葡萄牙语**。
+
+**Life · 生活**
+
 - 🏄 Sunrise surf · ⚽ Colorado at Beira-Rio · 🐧 Free software · 🎤 Talks on AI and animation. · 🏄 清晨冲浪 · ⚽ Beira-Rio 的科罗拉多球迷 · 🐧 自由软件 · 🎤 AI 与动画演讲。
 
 ---
