@@ -1,0 +1,33 @@
+name: Blog Posts
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Update post list
+        run: |
+          curl -fsSL https://frederico-kluser.com/posts-feed.json -o posts-feed.json || { echo "::warning::posts-feed.json indisponível no site — nada a atualizar"; exit 0; }
+          node src/listPosts.js
+          rm -f posts-feed.json
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update blog posts"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@881a6320fdb16eb5318c5054f31c218aec2b324c
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

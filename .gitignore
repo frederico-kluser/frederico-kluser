@@ -1,0 +1,10 @@
+# Artefato temporário do workflow de blog posts
+posts-feed.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema / editor
+.DS_Store
+*.sw?
