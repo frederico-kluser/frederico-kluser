@@ -77,7 +77,147 @@
 ## ✨ Meus seguidores
 
 <!--START_SECTION:top-followers-->
-<table>  <tr>    <td align="center">      <a href="https://github.com/leostella97">        <img src="https://avatars.githubusercontent.com/u/45106451?s=100&v=4" width="100px;" alt="leostella97"/>      </a>      <br />      <a href="https://github.com/leostella97">Leonardo Stella de Oliveira</a>    </td>    <td align="center">      <a href="https://github.com/matmelous">        <img src="https://avatars.githubusercontent.com/u/51704551?s=100&v=4" width="100px;" alt="matmelous"/>      </a>      <br />      <a href="https://github.com/matmelous">Matheus Santos</a>    </td>    <td align="center">      <a href="https://github.com/Rogenis">        <img src="https://avatars.githubusercontent.com/u/49156356?s=100&v=4" width="100px;" alt="Rogenis"/>      </a>      <br />      <a href="https://github.com/Rogenis">Rógenis Silva</a>    </td>    <td align="center">      <a href="https://github.com/nycodev">        <img src="https://avatars.githubusercontent.com/u/81642126?s=100&v=4" width="100px;" alt="nycodev"/>      </a>      <br />      <a href="https://github.com/nycodev">Nycolas Borowski</a>    </td>  </tr></table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dioptx">
+        <img src="https://avatars.githubusercontent.com/u/20043465?s=100&v=4" width="100px;" alt="dioptx"/>
+      </a>
+      <br />
+      <a href="https://github.com/dioptx">Dennis P</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adelburieva">
+        <img src="https://avatars.githubusercontent.com/u/137014493?s=100&v=4" width="100px;" alt="adelburieva"/>
+      </a>
+      <br />
+      <a href="https://github.com/adelburieva">Adel Burieva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/webbrain-one">
+        <img src="https://avatars.githubusercontent.com/u/295484252?s=100&v=4" width="100px;" alt="webbrain-one"/>
+      </a>
+      <br />
+      <a href="https://github.com/webbrain-one">WebBrain</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ask0ldd">
+        <img src="https://avatars.githubusercontent.com/u/117862447?s=100&v=4" width="100px;" alt="ask0ldd"/>
+      </a>
+      <br />
+      <a href="https://github.com/ask0ldd">ask0ldd</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vincentjiang777">
+        <img src="https://avatars.githubusercontent.com/u/17991268?s=100&v=4" width="100px;" alt="vincentjiang777"/>
+      </a>
+      <br />
+      <a href="https://github.com/vincentjiang777">vincentjiang777</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bryanadenhq">
+        <img src="https://avatars.githubusercontent.com/u/222145683?s=100&v=4" width="100px;" alt="bryanadenhq"/>
+      </a>
+      <br />
+      <a href="https://github.com/bryanadenhq">Bryan @ Aden</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/19511979">
+        <img src="https://avatars.githubusercontent.com/u/110697118?s=100&v=4" width="100px;" alt="19511979"/>
+      </a>
+      <br />
+      <a href="https://github.com/19511979">Keli Rodrigues</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/luispimenta">
+        <img src="https://avatars.githubusercontent.com/u/9202712?s=100&v=4" width="100px;" alt="luispimenta"/>
+      </a>
+      <br />
+      <a href="https://github.com/luispimenta">Luis Fernando Pimenta</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/leostella97">
+        <img src="https://avatars.githubusercontent.com/u/45106451?s=100&v=4" width="100px;" alt="leostella97"/>
+      </a>
+      <br />
+      <a href="https://github.com/leostella97">Leonardo Stella de Oliveira</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/matmelous">
+        <img src="https://avatars.githubusercontent.com/u/51704551?s=100&v=4" width="100px;" alt="matmelous"/>
+      </a>
+      <br />
+      <a href="https://github.com/matmelous">Matheus Santos</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rogenis">
+        <img src="https://avatars.githubusercontent.com/u/49156356?s=100&v=4" width="100px;" alt="Rogenis"/>
+      </a>
+      <br />
+      <a href="https://github.com/Rogenis">Rógenis Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/normalsimple">
+        <img src="https://avatars.githubusercontent.com/u/40523278?s=100&v=4" width="100px;" alt="normalsimple"/>
+      </a>
+      <br />
+      <a href="https://github.com/normalsimple">namnvh</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FTozatti">
+        <img src="https://avatars.githubusercontent.com/u/60280143?s=100&v=4" width="100px;" alt="FTozatti"/>
+      </a>
+      <br />
+      <a href="https://github.com/FTozatti">Fabiano Tozatti</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nycodev">
+        <img src="https://avatars.githubusercontent.com/u/81642126?s=100&v=4" width="100px;" alt="nycodev"/>
+      </a>
+      <br />
+      <a href="https://github.com/nycodev">Nycolas Borowski</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/huandersonmachado">
+        <img src="https://avatars.githubusercontent.com/u/9514889?s=100&v=4" width="100px;" alt="huandersonmachado"/>
+      </a>
+      <br />
+      <a href="https://github.com/huandersonmachado">Huanderson Alexandre Machado</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Roodrigog">
+        <img src="https://avatars.githubusercontent.com/u/15794191?s=100&v=4" width="100px;" alt="Roodrigog"/>
+      </a>
+      <br />
+      <a href="https://github.com/Roodrigog">Rodrigo Rodrigues</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sergiosposito-fullstack">
+        <img src="https://avatars.githubusercontent.com/u/56163147?s=100&v=4" width="100px;" alt="sergiosposito-fullstack"/>
+      </a>
+      <br />
+      <a href="https://github.com/sergiosposito-fullstack">Sergio Sposito</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MJC579">
+        <img src="https://avatars.githubusercontent.com/u/57891903?s=100&v=4" width="100px;" alt="MJC579"/>
+      </a>
+      <br />
+      <a href="https://github.com/MJC579">a_misanthrope</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Joedyson">
+        <img src="https://avatars.githubusercontent.com/u/10080924?s=100&v=4" width="100px;" alt="Joedyson"/>
+      </a>
+      <br />
+      <a href="https://github.com/Joedyson">Joedyson Bezerra</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 *Meus seguidores, ordenados por relevância — atualizado automaticamente via GitHub Actions ([script](src/getTopFollowers.py) inspirado no profile do [ouuan](https://github.com/ouuan)).*
