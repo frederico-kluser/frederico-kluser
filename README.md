@@ -69,18 +69,18 @@
       <a href="https://github.com/dioptx">Dennis P</a>
     </td>
     <td align="center">
-      <a href="https://github.com/adelburieva">
-        <img src="https://avatars.githubusercontent.com/u/137014493?s=100&v=4" width="100px;" alt="adelburieva"/>
-      </a>
-      <br />
-      <a href="https://github.com/adelburieva">Adel Burieva</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/webbrain-one">
         <img src="https://avatars.githubusercontent.com/u/295484252?s=100&v=4" width="100px;" alt="webbrain-one"/>
       </a>
       <br />
       <a href="https://github.com/webbrain-one">WebBrain</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adelburieva">
+        <img src="https://avatars.githubusercontent.com/u/137014493?s=100&v=4" width="100px;" alt="adelburieva"/>
+      </a>
+      <br />
+      <a href="https://github.com/adelburieva">Adel Burieva</a>
     </td>
     <td align="center">
       <a href="https://github.com/ask0ldd">
@@ -178,18 +178,18 @@
       <a href="https://github.com/Roodrigog">Rodrigo Rodrigues</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sergiosposito-fullstack">
-        <img src="https://avatars.githubusercontent.com/u/56163147?s=100&v=4" width="100px;" alt="sergiosposito-fullstack"/>
-      </a>
-      <br />
-      <a href="https://github.com/sergiosposito-fullstack">Sergio Sposito</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/alexrmsouza">
         <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
       </a>
       <br />
       <a href="https://github.com/alexrmsouza">Alex Souza</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sergiosposito-fullstack">
+        <img src="https://avatars.githubusercontent.com/u/56163147?s=100&v=4" width="100px;" alt="sergiosposito-fullstack"/>
+      </a>
+      <br />
+      <a href="https://github.com/sergiosposito-fullstack">Sergio Sposito</a>
     </td>
     <td align="center">
       <a href="https://github.com/MJC579">
