@@ -185,6 +185,13 @@
       <a href="https://github.com/Roodrigog">Rodrigo Rodrigues</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gabriel-castro-dev">
+        <img src="https://avatars.githubusercontent.com/u/172844709?s=100&v=4" width="100px;" alt="gabriel-castro-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/gabriel-castro-dev">gbrielcastro</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sergiosposito-fullstack">
         <img src="https://avatars.githubusercontent.com/u/56163147?s=100&v=4" width="100px;" alt="sergiosposito-fullstack"/>
       </a>
