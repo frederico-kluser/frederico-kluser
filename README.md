@@ -148,12 +148,21 @@
       <a href="https://github.com/normalsimple">namnvh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gabriel-castro-dev">
+        <img src="https://avatars.githubusercontent.com/u/172844709?s=100&v=4" width="100px;" alt="gabriel-castro-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/gabriel-castro-dev">gbrielcastro</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/FTozatti">
         <img src="https://avatars.githubusercontent.com/u/60280143?s=100&v=4" width="100px;" alt="FTozatti"/>
       </a>
       <br />
       <a href="https://github.com/FTozatti">Fabiano Tozatti</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/nycodev">
         <img src="https://avatars.githubusercontent.com/u/81642126?s=100&v=4" width="100px;" alt="nycodev"/>
@@ -161,21 +170,12 @@
       <br />
       <a href="https://github.com/nycodev">Nycolas Borowski</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/huandersonmachado">
         <img src="https://avatars.githubusercontent.com/u/9514889?s=100&v=4" width="100px;" alt="huandersonmachado"/>
       </a>
       <br />
       <a href="https://github.com/huandersonmachado">Huanderson Alexandre Machado</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gabriel-castro-dev">
-        <img src="https://avatars.githubusercontent.com/u/172844709?s=100&v=4" width="100px;" alt="gabriel-castro-dev"/>
-      </a>
-      <br />
-      <a href="https://github.com/gabriel-castro-dev">gbrielcastro</a>
     </td>
     <td align="center">
       <a href="https://github.com/alexrmsouza">
