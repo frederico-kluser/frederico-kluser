@@ -45,11 +45,11 @@
 ## ✍️ Latest blog posts · 最新博客文章
 
 <!--START_SECTION:blog-posts-->
+-   2026-08-25 [How I built a tool to tailor resumes using Harvard's official method](https://frederico-kluser.com/en/blog/how-i-built-a-tool-to-tailor-resumes-using-harvards-official-method?utm_source=GitHubProfile)
 -   2026-08-15 [How I use vibe coding to hit 100 on Lighthouse for performance, accessibility, and SEO](https://frederico-kluser.com/en/blog/vibe-coding-lighthouse-100?utm_source=GitHubProfile)
 -   2026-08-12 [Did You Ask About the Job Budget Today?](https://frederico-kluser.com/en/blog/did-you-ask-about-the-job-budget-today?utm_source=GitHubProfile)
 -   2026-08-11 [Cancelled GitKraken and Built My Own Git Client in Two Days](https://frederico-kluser.com/en/blog/cancelled-gitkraken-gitcraque-two-days-built?utm_source=GitHubProfile)
 -   2026-07-24 [How I run 10 Claude Code agents in parallel without tmux or headless](https://frederico-kluser.com/en/blog/10-claude-code-agents-in-parallel-without-tmux-or-headless?utm_source=GitHubProfile)
--   2026-07-24 [I built an agent orchestrator after blowing through my weekly Claude Code budget](https://frederico-kluser.com/en/blog/why-i-built-huu-agent-orchestrator?utm_source=GitHubProfile)
 <!--END_SECTION:blog-posts-->
 
 *[See all posts →](https://frederico-kluser.com/en/blog) · updated automatically by GitHub Actions from the site's [posts-feed.json](https://frederico-kluser.com/posts-feed.json). · [查看全部文章 →](https://frederico-kluser.com/en/blog) · 由 GitHub Actions 自动更新。*
