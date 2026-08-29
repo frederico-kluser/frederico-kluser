@@ -178,18 +178,18 @@
       <a href="https://github.com/huandersonmachado">Huanderson Alexandre Machado</a>
     </td>
     <td align="center">
-      <a href="https://github.com/alexrmsouza">
-        <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
-      </a>
-      <br />
-      <a href="https://github.com/alexrmsouza">Alex Souza</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Roodrigog">
         <img src="https://avatars.githubusercontent.com/u/15794191?s=100&v=4" width="100px;" alt="Roodrigog"/>
       </a>
       <br />
       <a href="https://github.com/Roodrigog">Rodrigo Rodrigues</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/alexrmsouza">
+        <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
+      </a>
+      <br />
+      <a href="https://github.com/alexrmsouza">Alex Souza</a>
     </td>
     <td align="center">
       <a href="https://github.com/sergiosposito-fullstack">
