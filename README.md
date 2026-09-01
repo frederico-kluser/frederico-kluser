@@ -69,13 +69,6 @@
       <a href="https://github.com/dioptx">Dennis P</a>
     </td>
     <td align="center">
-      <a href="https://github.com/webbrain-one">
-        <img src="https://avatars.githubusercontent.com/u/295484252?s=100&v=4" width="100px;" alt="webbrain-one"/>
-      </a>
-      <br />
-      <a href="https://github.com/webbrain-one">WebBrain</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/adelburieva">
         <img src="https://avatars.githubusercontent.com/u/137014493?s=100&v=4" width="100px;" alt="adelburieva"/>
       </a>
@@ -83,18 +76,18 @@
       <a href="https://github.com/adelburieva">Adel Burieva</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ask0ldd">
-        <img src="https://avatars.githubusercontent.com/u/117862447?s=100&v=4" width="100px;" alt="ask0ldd"/>
-      </a>
-      <br />
-      <a href="https://github.com/ask0ldd">ask0ldd</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vincentjiang777">
         <img src="https://avatars.githubusercontent.com/u/17991268?s=100&v=4" width="100px;" alt="vincentjiang777"/>
       </a>
       <br />
       <a href="https://github.com/vincentjiang777">vincentjiang777</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ask0ldd">
+        <img src="https://avatars.githubusercontent.com/u/117862447?s=100&v=4" width="100px;" alt="ask0ldd"/>
+      </a>
+      <br />
+      <a href="https://github.com/ask0ldd">ask0ldd</a>
     </td>
     <td align="center">
       <a href="https://github.com/bryanadenhq">
@@ -110,8 +103,6 @@
       <br />
       <a href="https://github.com/19511979">Keli Rodrigues</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/luispimenta">
         <img src="https://avatars.githubusercontent.com/u/9202712?s=100&v=4" width="100px;" alt="luispimenta"/>
@@ -119,6 +110,8 @@
       <br />
       <a href="https://github.com/luispimenta">Luis Fernando Pimenta</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/leostella97">
         <img src="https://avatars.githubusercontent.com/u/45106451?s=100&v=4" width="100px;" alt="leostella97"/>
@@ -161,8 +154,6 @@
       <br />
       <a href="https://github.com/FTozatti">Fabiano Tozatti</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/nycodev">
         <img src="https://avatars.githubusercontent.com/u/81642126?s=100&v=4" width="100px;" alt="nycodev"/>
@@ -170,6 +161,8 @@
       <br />
       <a href="https://github.com/nycodev">Nycolas Borowski</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/huandersonmachado">
         <img src="https://avatars.githubusercontent.com/u/9514889?s=100&v=4" width="100px;" alt="huandersonmachado"/>
