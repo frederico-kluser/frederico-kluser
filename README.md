@@ -76,18 +76,18 @@
       <a href="https://github.com/adelburieva">Adel Burieva</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ask0ldd">
-        <img src="https://avatars.githubusercontent.com/u/117862447?s=100&v=4" width="100px;" alt="ask0ldd"/>
-      </a>
-      <br />
-      <a href="https://github.com/ask0ldd">ask0ldd</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/vincentjiang777">
         <img src="https://avatars.githubusercontent.com/u/17991268?s=100&v=4" width="100px;" alt="vincentjiang777"/>
       </a>
       <br />
       <a href="https://github.com/vincentjiang777">vincentjiang777</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ask0ldd">
+        <img src="https://avatars.githubusercontent.com/u/117862447?s=100&v=4" width="100px;" alt="ask0ldd"/>
+      </a>
+      <br />
+      <a href="https://github.com/ask0ldd">ask0ldd</a>
     </td>
     <td align="center">
       <a href="https://github.com/bryanadenhq">
