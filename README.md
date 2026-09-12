@@ -120,13 +120,6 @@
       <a href="https://github.com/leostella97">Leonardo Stella de Oliveira</a>
     </td>
     <td align="center">
-      <a href="https://github.com/normalsimple">
-        <img src="https://avatars.githubusercontent.com/u/40523278?s=100&v=4" width="100px;" alt="normalsimple"/>
-      </a>
-      <br />
-      <a href="https://github.com/normalsimple">namnvh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/matmelous">
         <img src="https://avatars.githubusercontent.com/u/51704551?s=100&v=4" width="100px;" alt="matmelous"/>
       </a>
@@ -139,6 +132,13 @@
       </a>
       <br />
       <a href="https://github.com/Rogenis">Rógenis Silva</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/normalsimple">
+        <img src="https://avatars.githubusercontent.com/u/40523278?s=100&v=4" width="100px;" alt="normalsimple"/>
+      </a>
+      <br />
+      <a href="https://github.com/normalsimple">namnvh</a>
     </td>
     <td align="center">
       <a href="https://github.com/gabriel-castro-dev">
