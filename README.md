@@ -164,6 +164,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/alexrmsouza">
+        <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
+      </a>
+      <br />
+      <a href="https://github.com/alexrmsouza">Alex Souza</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/FTozatti">
         <img src="https://avatars.githubusercontent.com/u/60280143?s=100&v=4" width="100px;" alt="FTozatti"/>
       </a>
@@ -176,13 +183,6 @@
       </a>
       <br />
       <a href="https://github.com/nycodev">Nycolas Borowski</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/alexrmsouza">
-        <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
-      </a>
-      <br />
-      <a href="https://github.com/alexrmsouza">Alex Souza</a>
     </td>
     <td align="center">
       <a href="https://github.com/huandersonmachado">
