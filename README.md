@@ -141,12 +141,28 @@
       <a href="https://github.com/normalsimple">namnvh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/victormaitan">
+        <img src="https://avatars.githubusercontent.com/u/15337929?s=100&v=4" width="100px;" alt="victormaitan"/>
+      </a>
+      <br />
+      <a href="https://github.com/victormaitan">Victor Maitan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MarcosMMJr">
+        <img src="https://avatars.githubusercontent.com/u/42805516?s=100&v=4" width="100px;" alt="MarcosMMJr"/>
+      </a>
+      <br />
+      <a href="https://github.com/MarcosMMJr">Marcos</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gabriel-castro-dev">
         <img src="https://avatars.githubusercontent.com/u/172844709?s=100&v=4" width="100px;" alt="gabriel-castro-dev"/>
       </a>
       <br />
       <a href="https://github.com/gabriel-castro-dev">gbrielcastro</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/FTozatti">
         <img src="https://avatars.githubusercontent.com/u/60280143?s=100&v=4" width="100px;" alt="FTozatti"/>
@@ -161,21 +177,19 @@
       <br />
       <a href="https://github.com/nycodev">Nycolas Borowski</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/huandersonmachado">
-        <img src="https://avatars.githubusercontent.com/u/9514889?s=100&v=4" width="100px;" alt="huandersonmachado"/>
-      </a>
-      <br />
-      <a href="https://github.com/huandersonmachado">Huanderson Alexandre Machado</a>
-    </td>
     <td align="center">
       <a href="https://github.com/alexrmsouza">
         <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
       </a>
       <br />
       <a href="https://github.com/alexrmsouza">Alex Souza</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/huandersonmachado">
+        <img src="https://avatars.githubusercontent.com/u/9514889?s=100&v=4" width="100px;" alt="huandersonmachado"/>
+      </a>
+      <br />
+      <a href="https://github.com/huandersonmachado">Huanderson Alexandre Machado</a>
     </td>
     <td align="center">
       <a href="https://github.com/Roodrigog">
@@ -197,13 +211,6 @@
       </a>
       <br />
       <a href="https://github.com/MJC579">a_misanthrope</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Joedyson">
-        <img src="https://avatars.githubusercontent.com/u/10080924?s=100&v=4" width="100px;" alt="Joedyson"/>
-      </a>
-      <br />
-      <a href="https://github.com/Joedyson">Joedyson Bezerra</a>
     </td>
   </tr>
 </table>
