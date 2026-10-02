@@ -141,18 +141,18 @@
       <a href="https://github.com/Rogenis">Rógenis Silva</a>
     </td>
     <td align="center">
-      <a href="https://github.com/normalsimple">
-        <img src="https://avatars.githubusercontent.com/u/40523278?s=100&v=4" width="100px;" alt="normalsimple"/>
-      </a>
-      <br />
-      <a href="https://github.com/normalsimple">namnvh</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victormaitan">
         <img src="https://avatars.githubusercontent.com/u/15337929?s=100&v=4" width="100px;" alt="victormaitan"/>
       </a>
       <br />
       <a href="https://github.com/victormaitan">Victor Maitan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/normalsimple">
+        <img src="https://avatars.githubusercontent.com/u/40523278?s=100&v=4" width="100px;" alt="normalsimple"/>
+      </a>
+      <br />
+      <a href="https://github.com/normalsimple">namnvh</a>
     </td>
     <td align="center">
       <a href="https://github.com/MarcosMMJr">
