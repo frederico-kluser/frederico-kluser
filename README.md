@@ -164,6 +164,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/prampolin">
+        <img src="https://avatars.githubusercontent.com/u/42499782?s=100&v=4" width="100px;" alt="prampolin"/>
+      </a>
+      <br />
+      <a href="https://github.com/prampolin">Vitor Prampolin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/alexrmsouza">
         <img src="https://avatars.githubusercontent.com/u/69727117?s=100&v=4" width="100px;" alt="alexrmsouza"/>
       </a>
@@ -204,13 +211,6 @@
       </a>
       <br />
       <a href="https://github.com/sergiosposito-fullstack">Sergio Sposito</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MJC579">
-        <img src="https://avatars.githubusercontent.com/u/57891903?s=100&v=4" width="100px;" alt="MJC579"/>
-      </a>
-      <br />
-      <a href="https://github.com/MJC579">a_misanthrope</a>
     </td>
   </tr>
 </table>
