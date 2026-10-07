@@ -113,18 +113,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/leostella97">
-        <img src="https://avatars.githubusercontent.com/u/45106451?s=100&v=4" width="100px;" alt="leostella97"/>
-      </a>
-      <br />
-      <a href="https://github.com/leostella97">Leonardo Stella de Oliveira</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gabriel-castro-dev">
         <img src="https://avatars.githubusercontent.com/u/172844709?s=100&v=4" width="100px;" alt="gabriel-castro-dev"/>
       </a>
       <br />
       <a href="https://github.com/gabriel-castro-dev">gbrielcastro</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/leostella97">
+        <img src="https://avatars.githubusercontent.com/u/45106451?s=100&v=4" width="100px;" alt="leostella97"/>
+      </a>
+      <br />
+      <a href="https://github.com/leostella97">Leonardo Stella de Oliveira</a>
     </td>
     <td align="center">
       <a href="https://github.com/matmelous">
