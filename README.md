@@ -127,13 +127,6 @@
       <a href="https://github.com/matmelous">Matheus Santos</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Rogenis">
-        <img src="https://avatars.githubusercontent.com/u/49156356?s=100&v=4" width="100px;" alt="Rogenis"/>
-      </a>
-      <br />
-      <a href="https://github.com/Rogenis">Rógenis Silva</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/victormaitan">
         <img src="https://avatars.githubusercontent.com/u/15337929?s=100&v=4" width="100px;" alt="victormaitan"/>
       </a>
@@ -161,8 +154,6 @@
       <br />
       <a href="https://github.com/prampolin">Vitor Prampolin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/FTozatti">
         <img src="https://avatars.githubusercontent.com/u/60280143?s=100&v=4" width="100px;" alt="FTozatti"/>
@@ -170,6 +161,8 @@
       <br />
       <a href="https://github.com/FTozatti">Fabiano Tozatti</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/nycodev">
         <img src="https://avatars.githubusercontent.com/u/81642126?s=100&v=4" width="100px;" alt="nycodev"/>
@@ -211,6 +204,13 @@
       </a>
       <br />
       <a href="https://github.com/MJC579">a_misanthrope</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Joedyson">
+        <img src="https://avatars.githubusercontent.com/u/10080924?s=100&v=4" width="100px;" alt="Joedyson"/>
+      </a>
+      <br />
+      <a href="https://github.com/Joedyson">Joedyson Bezerra</a>
     </td>
   </tr>
 </table>
