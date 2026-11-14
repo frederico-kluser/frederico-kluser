@@ -148,12 +148,21 @@
       <a href="https://github.com/normalsimple">namnvh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/rafflezs">
+        <img src="https://avatars.githubusercontent.com/u/50029136?s=100&v=4" width="100px;" alt="rafflezs"/>
+      </a>
+      <br />
+      <a href="https://github.com/rafflezs">Rafael</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/MarcosMMJr">
         <img src="https://avatars.githubusercontent.com/u/42805516?s=100&v=4" width="100px;" alt="MarcosMMJr"/>
       </a>
       <br />
       <a href="https://github.com/MarcosMMJr">Marcos</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/prampolin">
         <img src="https://avatars.githubusercontent.com/u/42499782?s=100&v=4" width="100px;" alt="prampolin"/>
@@ -161,8 +170,6 @@
       <br />
       <a href="https://github.com/prampolin">Vitor Prampolin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/FTozatti">
         <img src="https://avatars.githubusercontent.com/u/60280143?s=100&v=4" width="100px;" alt="FTozatti"/>
@@ -204,13 +211,6 @@
       </a>
       <br />
       <a href="https://github.com/sergiosposito-fullstack">Sergio Sposito</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MJC579">
-        <img src="https://avatars.githubusercontent.com/u/57891903?s=100&v=4" width="100px;" alt="MJC579"/>
-      </a>
-      <br />
-      <a href="https://github.com/MJC579">a_misanthrope</a>
     </td>
   </tr>
 </table>
